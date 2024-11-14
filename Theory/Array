@@ -1,0 +1,5 @@
+#An array is a data structure used to store multiple elements.
+#The Python code above actually generates a Python 'list' data type, but for the scope of this tutorial the 'list' data type can be used in the same way as an array.
+
+my_array = [7, 12, 9, 4, 11]
+print(my_array)
